@@ -7,3 +7,4 @@ echo SayHello::world();
 use App\Wcs\Hello;
 $hello = new Hello();
 echo $hello->talk();
+

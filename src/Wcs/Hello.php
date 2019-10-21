@@ -6,4 +6,4 @@ class Hello
     {
         return 'Hello World';
     }
-}
+
